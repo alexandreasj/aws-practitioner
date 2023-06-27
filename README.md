@@ -50,3 +50,13 @@ Serviço de publicação/assinatura. Utilizando tópicos do Amazon SNS, um edito
 ### Amazon Simple Queue Service SNS
 
 Serviço de fila. É utilizado para enviar, armazenar e receber mensagens entre componentes de software, garantindo que as mensagens sejam processadas de forma confiável e sem o risco de perda.
+
+### AWS Lambda
+
+O serviço que permite fazer o upload do código sem a necessidade de provisionar ou gerenciar servidores e configurar um gatilho para executá-lo, pagando somente pelo tempo de computação utilizado
+
+### Amazon Elastic Container Service ECS
+
+Serviço de gerenciamento de contêineres altamente escalável e de alto desempenho. É compatível com o Docker.
+
+
