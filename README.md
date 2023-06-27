@@ -34,3 +34,19 @@ Oferece capacidade de computação escalável, com ele é possível executar ser
 - Instâncias reservadas - Praticamente a mesma coisa que o Saving Plans, porém é menos flexível. É necessário especificar a quantidade exata e o tipo de instância.
 - Spot - e um "leilao" de instancias ociosas da AWS. Descontos pode4m chegar a 90%, ideal para cargas de trabalho que poedm ser interrompidas.
 - Hosts dedicados - são servidores físicos com capacidade de instância do Amazon EC2 totalmente dedicada ao uso do cliente.
+
+**Amazon EC2 Auto Scaling**
+
+Provisiona ou remove automaticamente instâncias EC2 de acordo com a demanda da aplicação.
+
+**Elastic Load Balancer**
+
+Distribui o tráfego de entrada entre as instâncias EC2 para evitar a sobrecarga de uma única instância.
+
+### Amazon Simple Notification Service SNS
+
+Serviço de publicação/assinatura. Utilizando tópicos do Amazon SNS, um editor publica mensagens para assinantes. Os assinantes podem ser servidores web, endereços de e-mail, funções do AWS Lambda ou diversas outras opções disponíveis.
+
+### Amazon Simple Queue Service SNS
+
+Serviço de fila. É utilizado para enviar, armazenar e receber mensagens entre componentes de software, garantindo que as mensagens sejam processadas de forma confiável e sem o risco de perda.
