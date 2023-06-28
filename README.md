@@ -67,6 +67,7 @@ Serviço que registra todas as atividades de API dentro da AWS.
 ### AWS CloudWatch
 
 Serviço de monitoramento de recursos da AWS, que permite gerenciar métricas e criar alarmes que executam ações com base nas métricas obtidas.
+- CloudWatch logs, permite centralizar todos logs em um unico servico.
 
 ### AWS Inspector
 
@@ -106,4 +107,8 @@ Servico de firewall de aplicativos web.
 
 ### AWS CodeStar 
 
-Permite a integração de várias ferramentas de desenvolvimento, desde IDEs, esteiras de CI/CD e gerenciamento de projetos para auxiliar e acelerar a entrega de software
+Permite a integração de várias ferramentas de desenvolvimento, desde IDEs, esteiras de CI/CD e gerenciamento de projetos para auxiliar e acelerar a entrega de software.
+
+### AWS MQ
+
+Sistema de mensageria desenvolvido para integrar sitemas legados on premise com cloud aws.
