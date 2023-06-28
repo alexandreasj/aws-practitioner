@@ -91,3 +91,19 @@ Serviço que permite criptografar dados.
 ### AWS WAF
 
 Servico de firewall de aplicativos web.
+
+### AWS CodeBuild
+
+é utilizado para compilar e testar o aplicativo na esteira.
+
+### AWS CodeCommit
+
+é utilizado para fazer o gerenciamento de código fonte.
+
+### AWS CodeDeploy
+
+é utilizado para fazer a implantação do aplicativo.
+
+### AWS CodeStar 
+
+Permite a integração de várias ferramentas de desenvolvimento, desde IDEs, esteiras de CI/CD e gerenciamento de projetos para auxiliar e acelerar a entrega de software
