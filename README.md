@@ -67,3 +67,27 @@ Serviço que registra todas as atividades de API dentro da AWS.
 ### AWS CloudWatch
 
 Serviço de monitoramento de recursos da AWS, que permite gerenciar métricas e criar alarmes que executam ações com base nas métricas obtidas.
+
+### AWS Inspector
+
+Serviço que busca por possíveis vulnerabilidades da aplicação.
+
+### AWS Shield
+
+Serviço de proteção contra ataques DDoS.
+
+### AWS GuardDuty
+
+serviço que fornece detecção inteligente de ameaças para sua infraestrutura e seus recursos AWS
+
+### AWS Trudted Advisor
+
+Serviço web que inspeciona seu ambiente AWS e faz recomendações em tempo real de acordo com as práticas recomendadas da AWS.
+
+### AWS Key Management Service KMS
+
+Serviço que permite criptografar dados.
+
+### AWS WAF
+
+Servico de firewall de aplicativos web.
