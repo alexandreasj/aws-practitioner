@@ -59,4 +59,11 @@ O serviço que permite fazer o upload do código sem a necessidade de provisiona
 
 Serviço de gerenciamento de contêineres altamente escalável e de alto desempenho. É compatível com o Docker.
 
+### AWS CloudTrail
 
+Serviço que registra todas as atividades de API dentro da AWS.
+ - Possui CloudTrail Insights, que é um serviço opcional que detecta automaticamente atividades de API incomuns.
+
+### AWS CloudWatch
+
+Serviço de monitoramento de recursos da AWS, que permite gerenciar métricas e criar alarmes que executam ações com base nas métricas obtidas.
