@@ -112,3 +112,11 @@ Permite a integração de várias ferramentas de desenvolvimento, desde IDEs, es
 ### AWS MQ
 
 Sistema de mensageria desenvolvido para integrar sitemas legados on premise com cloud aws.
+
+### AWS AppFlow
+
+intercâmbio de dados com aplicativos de SaaS
+
+### AWS CloudFormation
+
+permite modelar, provisionar e gerenciar recursos da AWS e de terceiros ao tratar a infraestrutura como código.
